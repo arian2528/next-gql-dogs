@@ -36,4 +36,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Supporting video
 
 NextJS + GraphQL Blueprint: Professional Grade Setup
+
 https://www.youtube.com/watch?v=XzE-PzALyDc&list=TLPQMDgxMjIwMjI0gSav7QdXiw&index=3&ab_channel=JackHerrington
